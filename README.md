@@ -12,8 +12,10 @@ Python, Android, UI/UX, SQL, AWS
 Course, Kursus, Bootcamp, Training, Kelas, Les, Pelatihan, Belajar
 
 The most popular IT course: UI/UX (4762 tweet: 77,15% neutral, 17,18% positive, 5,67% negative)
+
 <img src="download(1).png"/>
 Keyword: Belajar 63%, Bootcamp 16%, Course 9%
+
 <img src="UI_UX vs Keyword.png"/>
 
 
